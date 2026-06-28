@@ -262,7 +262,7 @@ Andhra Pradesh.
 
 <div class="card">
 <h3>HTML</h3>
-<p>Responsive web page development using HTML5.</p>
+<p>beginner in web page development using HTML.</p>
 </div>
 
 </div>
@@ -280,7 +280,7 @@ Andhra Pradesh.
 <h3>Agricultural Drone</h3>
 
 <p>
-Developing an Agricultural Drone for crop disease detection and crop yield estimation using Artificial Intelligence, Image Processing and IoT technologies.
+Ongoing project developing an Agricultural Drone for crop disease detection and crop yield estimation.
 </p>
 
 </div>
@@ -296,15 +296,15 @@ Developing an Agricultural Drone for crop disease detection and crop yield estim
 <div class="cards">
 
 <div class="card">
-<h3>Technical Communication for Engineers</h3>
+<h3>Technical Communication for Engineers(NPTEL)</h3>
 </div>
 
 <div class="card">
-<h3>Computer Architecture and Organization</h3>
+<h3>Computer Architecture and Organization(NPTEL)</h3>
 </div>
 
 <div class="card">
-<h3>Understanding Incubation and Entrepreneurship</h3>
+<h3>Understanding Incubation and Entrepreneurship(NPTEL)</h3>
 </div>
 
 </div>
@@ -344,7 +344,7 @@ Developing an Agricultural Drone for crop disease detection and crop yield estim
 <p>+91 9392839803</p>
 
 <h3>Location</h3>
-<p>Andhra Pradesh, India</p>
+<p>Anappali(v),Ramasamudram(mandal), annamayya (dist),Andhra Pradesh, India</p>
 
 </div>
 
@@ -354,7 +354,7 @@ Developing an Agricultural Drone for crop disease detection and crop yield estim
 
 <footer>
 
-<p>© 2026 Lokesh Kumar. All Rights Reserved.</p>
+<p>© 2026 Lokesh Kumar.</p>
 
 </footer>
 
@@ -380,12 +380,12 @@ Developing an Agricultural Drone for crop disease detection and crop yield estim
 <p>+91 9392839803</p>
 
 <h3>Location</h3>
-<p>Andhra Pradesh, India</p>
+<p>Anapalli(v), ramasamudram (mandal), annamayya (dist), Andhra Pradesh, India</p>
 
 <h3>Career Objective</h3>
 
 <p>
-Motivated Electronics and Communication Engineering student seeking internship opportunities to enhance technical skills in Python and HTML while contributing to real-world projects.
+Motivated Electronics and Communication Engineering student seeking internship opportunities to enhance technical skills  real-world projects.
 </p>
 
 <h3>Education</h3>
