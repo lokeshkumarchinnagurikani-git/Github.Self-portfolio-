@@ -26,7 +26,6 @@ color:white;
 text-align:center;
 padding:40px 20px;
 }
-
 header img{
 width:180px;
 height:180px;
