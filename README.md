@@ -1,57 +1,108 @@
-<section class="home" id="home">
+ <section id="skills">
 
-<div class="home-text">
+<h2 class="title">Skills</h2>
 
-<h3>Hello, I'm</h3>
+<div class="skills-grid">
 
-<h1>Lokesh Kumar</h1>
-
-<h2>B.Tech - Electronics & Communication Engineering</h2>
-
-<p>
-Currently pursuing 3rd Year B.Tech in Electronics & Communication Engineering at
-Madanapalle Institute of Technology and Science (MITS), Andhra Pradesh.
-Interested in Embedded Systems, IoT, VLSI, Artificial Intelligence,
-Python, HTML and Full Stack Development.
-</p>
-
+<div class="skill">
+<h3>Python</h3>
+<p>Programming fundamentals, problem solving and automation.</p>
 </div>
 
-<div class="profile">
+<div class="skill">
+<h3>HTML</h3>
+<p>Responsive web page design using HTML5.</p>
+</div>
 
-<img src="1000171937.png" alt="Lokesh Kumar">
+<div class="skill">
+<h3>CSS</h3>
+<p>Modern UI design, Flexbox, Grid and responsive layouts.</p>
+</div>
+
+<div class="skill">
+<h3>JavaScript</h3>
+<p>Interactive websites and DOM manipulation.</p>
+</div>
+
+<div class="skill">
+<h3>Git & GitHub</h3>
+<p>Version control, repository management and collaboration.</p>
+</div>
+
+<div class="skill">
+<h3>Embedded Systems</h3>
+<p>Basic knowledge of microcontrollers and embedded programming.</p>
+</div>
+
+<div class="skill">
+<h3>IoT</h3>
+<p>Building smart devices using sensors and connectivity.</p>
+</div>
+
+<div class="skill">
+<h3>VLSI</h3>
+<p>Basic CMOS design and digital circuit fundamentals.</p>
+</div>
+
+<div class="skill">
+<h3>Artificial Intelligence</h3>
+<p>AI concepts for image processing and automation.</p>
+</div>
+
+<div class="skill">
+<h3>Problem Solving</h3>
+<p>Logical thinking and analytical approach.</p>
+</div>
+
+<div class="skill">
+<h3>Teamwork</h3>
+<p>Effective communication and collaboration.</p>
+</div>
+
+<div class="skill">
+<h3>Quick Learner</h3>
+<p>Ability to adapt to new technologies quickly.</p>
+</div>
 
 </div>
 
 </section>
 
-<section id="about">
+<section id="interests">
 
-<h2 class="title">About Me</h2>
+<h2 class="title">Interests</h2>
 
-<div class="about">
+<div class="skills-grid">
 
-<div>
-
-<img src="1000171937.png" alt="Lokesh Kumar">
-
+<div class="skill">
+<h3>Drone Technology</h3>
+<p>AI-powered agricultural drone development.</p>
 </div>
 
-<div class="about-text">
 
-<p>
-I am Lokesh Kumar, a third-year Electronics and Communication Engineering student at
-Madanapalle Institute of Technology and Science (MITS), Andhra Pradesh.
+<div class="skill">
+<h3>Internet of Things</h3>
+<p>Smart automation and connected devices.</p>
+</div>
 
-I have knowledge of Python, HTML, GitHub, Embedded Systems, IoT and VLSI.
-I am currently working on an Agricultural Drone project focused on crop disease detection
-and crop yield estimation using Artificial Intelligence, Image Processing and IoT.
+<div class="skill">
+<h3>Full Stack Development</h3>
+<p>Creating responsive and dynamic web applications.</p>
+</div>
 
-I have completed certifications in Technical Communication for Engineers,
-Computer Architecture and Organization, and Understanding Incubation and Entrepreneurship.
-I also hold an NCC 'B' Certificate.
-</p>
+<div class="skill">
+<h3>Gaming</h3>
+<p>Strategy and adventure games.</p>
+</div>
 
+<div class="skill">
+<h3>Running</h3>
+<p>Fitness and endurance activities.</p>
+</div>
+
+<div class="skill">
+<h3>Swimming</h3>
+<p>Recreational and fitness swimming.</p>
 </div>
 
 </div>
