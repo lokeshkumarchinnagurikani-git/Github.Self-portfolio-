@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -26,6 +26,7 @@ color:white;
 text-align:center;
 padding:40px 20px;
 }
+
 header img{
 width:180px;
 height:180px;
@@ -126,17 +127,12 @@ padding-left:20px;
 <header>
 
 <a href="profile.jpg" target="_blank">
-  <html>
-<    body>
- <  <img src=" Screenshot_20260628-141848.png"/>
-<body>
-<    html>
 <img src="profile.jpg" alt="Lokesh Kumar">
 </a>
 
 <h1>Lokesh Kumar</h1>
 
-<h3>B.Tech |3rd year Electronics & Communication Engineering</h3>
+<h3>B.Tech | Electronics & Communication Engineering</h3>
 
 <p>Passionate Learner | Future Embedded Systems & Full Stack Developer</p>
 
@@ -162,7 +158,7 @@ padding-left:20px;
 
 <p>
 
-Hello! I am <strong>Lokesh Kumar</strong>, currently pursuing 3rd year B.Tech in Electronics and Communication Engineering at Madanapalle Institute of Technology and Science (MITS).
+Hello! I am <strong>Lokesh Kumar</strong>, currently pursuing B.Tech in Electronics and Communication Engineering at Madanapalle Institute of Technology and Science (MITS).
 
 I am passionate about learning Embedded Systems, IoT, VLSI, Python, HTML and Full Stack Development. I enjoy learning new technologies and working on real-world engineering projects to improve my technical knowledge and problem-solving skills.
 
@@ -225,30 +221,7 @@ I am passionate about learning Embedded Systems, IoT, VLSI, Python, HTML and Ful
 </ul>
 
 </div>
-
-</section>
-
-
-
-<section id="projects">
-
-<h2>Projects</h2>
-
-<div class="card">
-
-<h3>Agricultural Drone (Ongoing)</h3>
-
-<p>
-Currently working on an Agricultural Drone project for crop disease detection and crop yield estimation using Artificial Intelligence, Image Processing and IoT technologies.
-</p>
-
-</div>
-
-</section>
-
 <section id="resume">
-Screenshot_20260628-141848.png
-
 
 <h2>Resume</h2>
 
@@ -267,7 +240,7 @@ Screenshot_20260628-141848.png
 <h3>Career Objective</h3>
 
 <p>
-Motivated Electronics and Communication Engineering student seeking internship opportunities to enhance my technical skills in Embedded Systems, IoT, VLSI, Python, HTML and Full Stack Development while contributing to real-world projects.
+Motivated Electronics and Communication Engineering student seeking internship opportunities to enhance my technical skills in Embedded Systems, IoT, VLSI, Python, HTML, and Full Stack Development while contributing to real-world projects.
 </p>
 
 <h3>Key Skills</h3>
@@ -289,7 +262,7 @@ Motivated Electronics and Communication Engineering student seeking internship o
 <h3>Education</h3>
 
 <p><strong>B.Tech (ECE)</strong><br>
-Madanapalle Institute of Technology and Science (MITS)<br>
+Madanapalle Institute of Technology and Science<br>
 Currently Pursuing (3rd Year)</p>
 
 <p><strong>Intermediate</strong><br>
@@ -301,7 +274,7 @@ Percentage: 91.8%</p>
 <p><strong>Agricultural Drone (Ongoing)</strong></p>
 
 <p>
-Working on an Agricultural Drone project for crop disease detection and crop yield estimation using Artificial Intelligence, Image Processing and IoT technologies.
+Working on an Agricultural Drone project for crop disease detection and crop yield estimation using Artificial Intelligence, image processing and IoT technologies.
 </p>
 
 <h3>Certifications</h3>
@@ -329,14 +302,5 @@ Working on an Agricultural Drone project for crop disease detection and crop yie
 
 </section>
 
-<section id="contact">
 
-<h2>Contact</h2>
-
-<div class="card">
-
-<p><strong>Email:</strong>
-<a href="mailto:lokeshkumarchinnagurik
-
-
-
+</section>
