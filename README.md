@@ -11,152 +11,7 @@
 
 <style>
 
-*{
-margin:0;
-padding:0;
-box-sizing:border-box;
-font-family:'Poppins',sans-serif;
-scroll-behavior:smooth;
-}
-
-body{
-background:#081b29;
-color:white;
-}
-
-header{
-position:fixed;
-top:0;
-left:0;
-width:100%;
-padding:20px 8%;
-display:flex;
-justify-content:space-between;
-align-items:center;
-background:#051129;
-z-index:1000;
-box-shadow:0 0 20px rgba(0,0,0,.4);
-}
-
-.logo{
-font-size:30px;
-font-weight:700;
-color:#00eeff;
-text-decoration:none;
-}
-
-nav a{
-color:white;
-text-decoration:none;
-margin-left:30px;
-font-size:17px;
-transition:.4s;
-}
-
-nav a:hover{
-color:#00eeff;
-}
-
-section{
-padding:100px 8%;
-}
-
-.home{
-display:flex;
-justify-content:space-between;
-align-items:center;
-min-height:100vh;
-gap:50px;
-}
-
-.home-text h3{
-font-size:30px;
-}
-
-.home-text h1{
-font-size:55px;
-color:#00eeff;
-margin:10px 0;
-}
-
-.home-text h2{
-font-size:25px;
-margin-bottom:20px;
-}
-
-.home-text p{
-font-size:18px;
-line-height:1.8;
-margin-bottom:30px;
-max-width:600px;
-}
-
-.btn{
-display:inline-block;
-padding:12px 30px;
-background:#00eeff;
-color:#081b29;
-border-radius:30px;
-text-decoration:none;
-font-weight:600;
-transition:.4s;
-}
-
-.btn:hover{
-box-shadow:0 0 20px cyan;
-transform:scale(1.05);
-}
-
-.profile{
-width:380px;
-height:380px;
-border-radius:50%;
-overflow:hidden;
-border:8px solid #00eeff;
-box-shadow:0 0 40px cyan;
-}
-
-.profile img{
-width:100%;
-height:100%;
-object-fit:cover;
-}
-
-.title{
-text-align:center;
-font-size:40px;
-color:#00eeff;
-margin-bottom:50px;
-}
-
-.about{
-display:grid;
-grid-template-columns:1fr 1fr;
-gap:60px;
-align-items:center;
-}
-
-.about img{
-width:100%;
-border-radius:20px;
-box-shadow:0 0 30px cyan;
-}
-
-.about-text p{
-font-size:18px;
-line-height:1.8;
-}
-
-.skills-grid{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-gap:25px;
-}
-
-.skill{
-background:#112e42;
-padding:25px;
-border-radius:15px;
+* border-radius:15px;
 text-align:center;
 transition:.5s;
 }
@@ -308,7 +163,65 @@ height:280px;
 .home-text h1{
 font-size:40px;
 }
+<section class="home" id="home">
 
+<div class="home-text">
+
+<h3>Hello, I'm</h3>
+
+<h1>Lokesh Kumar</h1>
+
+<h2>B.Tech - Electronics & Communication Engineering</h2>
+
+<p>
+Currently pursuing 3rd Year B.Tech in Electronics & Communication Engineering at
+Madanapalle Institute of Technology and Science (MITS), Andhra Pradesh.
+Interested in Embedded Systems, IoT, VLSI, Artificial Intelligence,
+Python, HTML and Full Stack Development.
+</p>
+
+</div>
+
+<div class="profile">
+
+<img src="1000171937.png" alt="Lokesh Kumar">
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2 class="title">About Me</h2>
+
+<div class="about">
+
+<div>
+
+<img src="1000171937.png" alt="Lokesh Kumar">
+
+</div>
+
+<div class="about-text">
+
+<p>
+I am Lokesh Kumar, a third-year Electronics and Communication Engineering student at
+Madanapalle Institute of Technology and Science (MITS), Andhra Pradesh.
+
+I have knowledge of Python, HTML, GitHub, Embedded Systems, IoT and VLSI.
+I am currently working on an Agricultural Drone project focused on crop disease detection
+and crop yield estimation using Artificial Intelligence, Image Processing and IoT.
+
+I have completed certifications in Technical Communication for Engineers,
+Computer Architecture and Organization, and Understanding Incubation and Entrepreneurship.
+I also hold an NCC 'B' Certificate.
+</p>
+
+</div>
+
+</div>
+
+</section>
 }
 
 </style>
