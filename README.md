@@ -137,7 +137,7 @@ padding-left:20px;
 
 <h1>Lokesh Kumar</h1>
 
-<h3>B.Tech | Electronics & Communication Engineering</h3>
+<h3>B.Tech |3rd year Electronics & Communication Engineering</h3>
 
 <p>Passionate Learner | Future Embedded Systems & Full Stack Developer</p>
 
@@ -163,7 +163,7 @@ padding-left:20px;
 
 <p>
 
-Hello! I am <strong>Lokesh Kumar</strong>, currently pursuing B.Tech in Electronics and Communication Engineering at Madanapalle Institute of Technology and Science (MITS).
+Hello! I am <strong>Lokesh Kumar</strong>, currently pursuing 3rd year B.Tech in Electronics and Communication Engineering at Madanapalle Institute of Technology and Science (MITS).
 
 I am passionate about learning Embedded Systems, IoT, VLSI, Python, HTML and Full Stack Development. I enjoy learning new technologies and working on real-world engineering projects to improve my technical knowledge and problem-solving skills.
 
@@ -248,6 +248,8 @@ Currently working on an Agricultural Drone project for crop disease detection an
 </section>
 
 <section id="resume">
+Screenshot_20260628-141848.png
+
 
 <h2>Resume</h2>
 
