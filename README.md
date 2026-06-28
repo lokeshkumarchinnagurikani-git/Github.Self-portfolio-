@@ -82,7 +82,7 @@ font-size:18px;
 line-height:1.8;
 }
 
-.profile img{
+.profile img{Screenshot_20260628-141848.png
 width:340px;
 height:340px;
 border-radius:50%;
@@ -104,17 +104,6 @@ grid-template-columns:1fr 2fr;
 gap:50px;
 align-items:center;
 }
-
-.about img{
-width:300px;
-border-radius:20px;
-box-shadow:0 0 25px cyan;
-}
-
-.about-text h3{
-color:#00e5ff;
-margin-top:20px;
-margin-bottom:8px;
 }
 about-text ul{
   <p> Name: C.Lokesh kumar 
