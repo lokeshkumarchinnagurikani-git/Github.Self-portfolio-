@@ -80,6 +80,13 @@ align-items:center;
 min-height:100vh;
 gap:60px;
 }
+ . about {
+<p>
+Currently pursuing 3rd Year B.Tech at
+Madanapalle Institute of Technology and Science (MITS),
+Andhra Pradesh.
+</p>
+  }
 
 .profile img{Screenshot_20260628-141848.png
            Name: C.Lokesh kumar 
