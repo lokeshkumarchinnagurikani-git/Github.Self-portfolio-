@@ -123,6 +123,8 @@ line-height:1.8;
 }
 
 .about-text ul{
+  <p> Name: C.Lokesh kumar 
+  currently pursuing 3rd year of b.tech in the branch of electronics & communication engineering 
 margin-left:20px;
 }
 
