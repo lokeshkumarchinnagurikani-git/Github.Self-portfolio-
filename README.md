@@ -1,7 +1,3 @@
-<html>
- <p><p>Screenshot_20260628-141848.png</p>
-</html>
-<p>Screenshot_20260628-141848.png<p>
 
 <html></html>
 <head>
@@ -95,7 +91,13 @@ border:6px solid #00e5ff;
 box-shadow:0 0 30px cyan;
 object-fit:cover;
 }
+ {
+ <html>
+ <p><p>Screenshot_20260628-141848.png</p>
+</html>
+<p>Screenshot_20260628-141848.png<p>
 
+  }
 .title{
 font-size:40px;
 text-align:center;
@@ -226,6 +228,12 @@ Andhra Pradesh.
 <h2 class="title">About Me</h2>
 
 <div class="about">
+
+<p>
+Currently pursuing 3rd Year B.Tech at
+Madanapalle Institute of Technology and Science (MITS),
+Andhra Pradesh.
+</p>
 
 <div>
 
