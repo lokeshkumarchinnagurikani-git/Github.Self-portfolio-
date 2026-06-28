@@ -1,4 +1,4 @@
-<html lang="en">
+<html></html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -107,11 +107,6 @@ gap:50px;
 align-items:center;
 }
 }
-about-text ul{
-  <p> Name: C.Lokesh kumar 
-  currently pursuing 3rd year of b.tech in the branch of electronics & communication engineering 
-margin-left:20px;
-}
 
 .cards{
 display:grid;
@@ -166,6 +161,13 @@ margin-top:40px;
 flex-direction:column-reverse;
 text-align:center;
 }
+about-text ul{
+  <p> Name: C.Lokesh kumar 
+  currently pursuing 3rd year of b.tech in the branch of electronics & communication engineering 
+margin-left:20px;
+}
+ 
+ 
 }
 </style>
 </head>
