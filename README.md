@@ -116,13 +116,7 @@ color:#00e5ff;
 margin-top:20px;
 margin-bottom:8px;
 }
-
-.about-text p,
-.about-text li{
-line-height:1.8;
-}
-
-.about-text ul{
+about-text ul{
   <p> Name: C.Lokesh kumar 
   currently pursuing 3rd year of b.tech in the branch of electronics & communication engineering 
 margin-left:20px;
@@ -181,18 +175,7 @@ margin-top:40px;
 flex-direction:column-reverse;
 text-align:center;
 }
-
-.about{
-grid-template-columns:1fr;
-text-align:center;
 }
-
-.about img{
-margin:auto;
-}
-
-}
-
 </style>
 </head>
 
