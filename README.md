@@ -35,8 +35,22 @@ align-items:center;
 padding:18px 8%;
 z-index:1000;
 }
+home-text h1{
+font-size:55px;
+color:#00e5ff;
+margin:10px 0;
+}
 
-.logo{
+.home-text h2{
+font-size:28px;
+margin-bottom:20px;
+}
+
+.home-text p{
+font-size:18px;
+line-height:1.8;
+}
+.logo{Screenshot_20260628-141848.png
 font-size:28px;
 font-weight:700;
 color:#00e5ff;
@@ -58,28 +72,12 @@ section{
 padding:100px 8%;
 }
 
-.home{
+.home{Screenshot_20260628-141848.png
 display:flex;
 justify-content:space-between;
 align-items:center;
 min-height:100vh;
 gap:60px;
-}
-
-.home-text h1{
-font-size:55px;
-color:#00e5ff;
-margin:10px 0;
-}
-
-.home-text h2{
-font-size:28px;
-margin-bottom:20px;
-}
-
-.home-text p{
-font-size:18px;
-line-height:1.8;
 }
 
 .profile img{Screenshot_20260628-141848.png
