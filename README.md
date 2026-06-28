@@ -123,7 +123,7 @@ padding-left:20px;
 
 <header>
 
-<img src="profile.jpg" alt="Lokesh Kumar">
+<img src="profile.jpg" alt="Lokesh Kumar"> 
 
 <h1>Lokesh Kumar</h1>
 
@@ -289,9 +289,88 @@ Currently working on an Agricultural Drone project for crop disease detection an
 
 <p>Click below to download my resume.</p>
 
-<a href="Lokesh_Kumar_Resume.pdf" class="button" download>
+<a href="Lokesh_Kumar_Resume.pdf" class="button" view>
+<section id="resume">
 
-📄 Download Resume
+<h2>Resume</h2>
+
+<div class="card">
+
+<h3>Lokesh Kumar</h3>
+
+<p><strong>Email:</strong> lokeshkumarchinnagurikani@gmail.com</p>
+
+<p><strong>Phone:</strong> +91 9392839803</p>
+
+<p><strong>Location:</strong> Andhra Pradesh, India</p>
+
+<hr>
+
+<h3>Career Objective</h3>
+
+<p>
+Motivated Electronics and Communication Engineering student seeking internship opportunities to enhance my technical skills in Embedded Systems, IoT, VLSI, Python, HTML, and Full Stack Development while contributing to real-world projects.
+</p>
+
+<h3>Key Skills</h3>
+
+<ul>
+<li>Python</li>
+<li>HTML</li>
+<li>Problem Solving</li>
+<li>Teamwork</li>
+<li>Quick Learner</li>
+</ul>
+
+<h3>Tools</h3>
+
+<ul>
+<li>GitHub</li>
+</ul>
+
+<h3>Education</h3>
+
+<p><strong>B.Tech (ECE)</strong><br>
+Madanapalle Institute of Technology and Science<br>
+Currently Pursuing (3rd Year)</p>
+
+<p><strong>Intermediate</strong><br>
+APRJC Gyarampalli<br>
+Percentage: 91.8%</p>
+
+<h3>Project</h3>
+
+<p><strong>Agricultural Drone (Ongoing)</strong></p>
+
+<p>
+Working on an Agricultural Drone project for crop disease detection and crop yield estimation using Artificial Intelligence, image processing and IoT technologies.
+</p>
+
+<h3>Certifications</h3>
+
+<ul>
+<li>Technical Communication for Engineers</li>
+<li>Computer Architecture and Organization</li>
+<li>Understanding Incubation and Entrepreneurship</li>
+</ul>
+
+<h3>Extra-Curricular Activities</h3>
+
+<ul>
+<li>NCC 'B' Certificate</li>
+</ul>
+
+<h3>Languages</h3>
+
+<ul>
+<li>English</li>
+<li>Telugu</li>
+</ul>
+
+</div>
+
+</section>  
+ <a href="#resume" class="button">📄 View Resume</a>
 
 </a>
 
