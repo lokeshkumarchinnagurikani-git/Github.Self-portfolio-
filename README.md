@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -83,6 +81,8 @@ gap:60px;
 }
 
 .profile img{Screenshot_20260628-141848.png
+           Name: C.Lokesh kumar 
+  currently pursuing 3rd year of b.tech in the branch of electronics & communication engineering   
 width:340px;
 height:340px;
 border-radius:50%;
@@ -99,6 +99,8 @@ margin-bottom:50px;
 }
 
 .about{
+ Name: C.Lokesh kumar 
+  currently pursuing 3rd year of b.tech in the branch of electronics & communication engineering   
 display:grid;
 grid-template-columns:1fr 2fr;
 gap:50px;
