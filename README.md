@@ -235,6 +235,7 @@ Andhra Pradesh.
 
 </div>
 
+
 </section>
 
 <section id="about">
@@ -244,6 +245,124 @@ Andhra Pradesh.
 <div class="about">
 
 <div>
+
+
+<!-- PART 2 -->
+
+<section id="skills">
+
+<h2 class="title">Skills</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Python</h3>
+<p>Basic programming, problem solving and scripting.</p>
+</div>
+
+<div class="card">
+<h3>HTML</h3>
+<p>Responsive web page development using HTML5.</p>
+</div>
+
+</div>
+
+</section>
+
+<section id="project">
+
+<h2 class="title">Project</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>Agricultural Drone</h3>
+
+<p>
+Developing an Agricultural Drone for crop disease detection and crop yield estimation using Artificial Intelligence, Image Processing and IoT technologies.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="certifications">
+
+<h2 class="title">Certifications</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Technical Communication for Engineers</h3>
+</div>
+
+<div class="card">
+<h3>Computer Architecture and Organization</h3>
+</div>
+
+<div class="card">
+<h3>Understanding Incubation and Entrepreneurship</h3>
+</div>
+
+</div>
+
+</section>
+
+<section id="languages">
+
+<h2 class="title">Languages</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>English</h3>
+</div>
+
+<div class="card">
+<h3>Telugu</h3>
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2 class="title">Contact</h2>
+
+<div class="contact">
+
+<div class="contact-box">
+
+<h3>Email</h3>
+<p>lokeshkumarchinnagurikani@gmail.com</p>
+
+<h3>Phone</h3>
+<p>+91 9392839803</p>
+
+<h3>Location</h3>
+<p>Andhra Pradesh, India</p>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 Lokesh Kumar. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+</html>
+
+
+
 
 <img src="1000171937.png" alt="Lokesh Kumar">
 
