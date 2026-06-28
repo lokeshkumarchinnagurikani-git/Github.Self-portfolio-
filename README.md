@@ -1,108 +1,284 @@
- <section id="skills">
 
-<h2 class="title">Skills</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lokesh Kumar | Portfolio</title>
 
-<div class="skills-grid">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-<div class="skill">
-<h3>Python</h3>
-<p>Programming fundamentals, problem solving and automation.</p>
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+scroll-behavior:smooth;
+}
+
+body{
+background:#081b29;
+color:#fff;
+}
+
+header{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+background:#051129;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:18px 8%;
+z-index:1000;
+}
+
+.logo{
+font-size:28px;
+font-weight:700;
+color:#00e5ff;
+text-decoration:none;
+}
+
+nav a{
+color:#fff;
+text-decoration:none;
+margin-left:25px;
+transition:.3s;
+}
+
+nav a:hover{
+color:#00e5ff;
+}
+
+section{
+padding:100px 8%;
+}
+
+.home{
+display:flex;
+justify-content:space-between;
+align-items:center;
+min-height:100vh;
+gap:60px;
+}
+
+.home-text h1{
+font-size:55px;
+color:#00e5ff;
+margin:10px 0;
+}
+
+.home-text h2{
+font-size:28px;
+margin-bottom:20px;
+}
+
+.home-text p{
+font-size:18px;
+line-height:1.8;
+}
+
+.profile img{
+width:340px;
+height:340px;
+border-radius:50%;
+border:6px solid #00e5ff;
+box-shadow:0 0 30px cyan;
+object-fit:cover;
+}
+
+.title{
+font-size:40px;
+text-align:center;
+color:#00e5ff;
+margin-bottom:50px;
+}
+
+.about{
+display:grid;
+grid-template-columns:1fr 2fr;
+gap:50px;
+align-items:center;
+}
+
+.about img{
+width:300px;
+border-radius:20px;
+box-shadow:0 0 25px cyan;
+}
+
+.about-text h3{
+color:#00e5ff;
+margin-top:20px;
+margin-bottom:8px;
+}
+
+.about-text p,
+.about-text li{
+line-height:1.8;
+}
+
+.about-text ul{
+margin-left:20px;
+}
+
+.cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:25px;
+}
+
+.card{
+background:#112e42;
+padding:25px;
+border-radius:15px;
+transition:.4s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+box-shadow:0 0 20px cyan;
+}
+
+.card h3{
+color:#00e5ff;
+margin-bottom:15px;
+}
+
+.contact{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+gap:30px;
+}
+
+.contact-box{
+background:#112e42;
+padding:25px;
+border-radius:15px;
+}
+
+.contact-box h3{
+color:#00e5ff;
+margin-bottom:15px;
+}
+
+footer{
+background:#051129;
+padding:20px;
+text-align:center;
+margin-top:40px;
+}
+
+@media(max-width:900px){
+
+.home{
+flex-direction:column-reverse;
+text-align:center;
+}
+
+.about{
+grid-template-columns:1fr;
+text-align:center;
+}
+
+.about img{
+margin:auto;
+}
+
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<a href="#" class="logo">Lokesh Kumar</a>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#about">About</a>
+<a href="#skills">Skills</a>
+<a href="#education">Education</a>
+<a href="#project">Project</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+<section class="home" id="home">
+
+<div class="home-text">
+
+<h3>Hello, I'm</h3>
+
+<h1>Lokesh Kumar</h1>
+
+<h2>B.Tech - Electronics & Communication Engineering</h2>
+
+<p>
+Currently pursuing 3rd Year B.Tech at
+Madanapalle Institute of Technology and Science (MITS),
+Andhra Pradesh.
+</p>
+
 </div>
 
-<div class="skill">
-<h3>HTML</h3>
-<p>Responsive web page design using HTML5.</p>
-</div>
+<div class="profile">
 
-<div class="skill">
-<h3>CSS</h3>
-<p>Modern UI design, Flexbox, Grid and responsive layouts.</p>
-</div>
-
-<div class="skill">
-<h3>JavaScript</h3>
-<p>Interactive websites and DOM manipulation.</p>
-</div>
-
-<div class="skill">
-<h3>Git & GitHub</h3>
-<p>Version control, repository management and collaboration.</p>
-</div>
-
-<div class="skill">
-<h3>Embedded Systems</h3>
-<p>Basic knowledge of microcontrollers and embedded programming.</p>
-</div>
-
-<div class="skill">
-<h3>IoT</h3>
-<p>Building smart devices using sensors and connectivity.</p>
-</div>
-
-<div class="skill">
-<h3>VLSI</h3>
-<p>Basic CMOS design and digital circuit fundamentals.</p>
-</div>
-
-<div class="skill">
-<h3>Artificial Intelligence</h3>
-<p>AI concepts for image processing and automation.</p>
-</div>
-
-<div class="skill">
-<h3>Problem Solving</h3>
-<p>Logical thinking and analytical approach.</p>
-</div>
-
-<div class="skill">
-<h3>Teamwork</h3>
-<p>Effective communication and collaboration.</p>
-</div>
-
-<div class="skill">
-<h3>Quick Learner</h3>
-<p>Ability to adapt to new technologies quickly.</p>
-</div>
+<img src="1000171937.png" alt="Lokesh Kumar">
 
 </div>
 
 </section>
 
-<section id="interests">
+<section id="about">
 
-<h2 class="title">Interests</h2>
+<h2 class="title">About Me</h2>
 
-<div class="skills-grid">
+<div class="about">
 
-<div class="skill">
-<h3>Drone Technology</h3>
-<p>AI-powered agricultural drone development.</p>
+<div>
+
+<img src="1000171937.png" alt="Lokesh Kumar">
+
 </div>
 
+<div class="about-text">
 
-<div class="skill">
-<h3>Internet of Things</h3>
-<p>Smart automation and connected devices.</p>
-</div>
+<h3>Name</h3>
+<p>Lokesh Kumar</p>
 
-<div class="skill">
-<h3>Full Stack Development</h3>
-<p>Creating responsive and dynamic web applications.</p>
-</div>
+<h3>Email</h3>
+<p>lokeshkumarchinnagurikani@gmail.com</p>
 
-<div class="skill">
-<h3>Gaming</h3>
-<p>Strategy and adventure games.</p>
-</div>
+<h3>Phone</h3>
+<p>+91 9392839803</p>
 
-<div class="skill">
-<h3>Running</h3>
-<p>Fitness and endurance activities.</p>
-</div>
+<h3>Location</h3>
+<p>Andhra Pradesh, India</p>
 
-<div class="skill">
-<h3>Swimming</h3>
-<p>Recreational and fitness swimming.</p>
+<h3>Career Objective</h3>
+
+<p>
+Motivated Electronics and Communication Engineering student seeking internship opportunities to enhance technical skills in Python and HTML while contributing to real-world projects.
+</p>
+
+<h3>Education</h3>
+
+<ul>
+
+<li>B.Tech (ECE) - Madanapalle Institute of Technology and Science (Currently Pursuing 3rd Year)</li>
+
+<li>Intermediate - APRJC Gyarampalli (91.8%)</li>
+
+</ul>
+
 </div>
 
 </div>
